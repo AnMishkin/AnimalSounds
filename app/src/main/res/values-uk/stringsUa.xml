@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="title_activity_fullscreen">Animal Sounds</string>
+    <!--                                         FullscreenActivity-->
+
+    <!--назване кнопок-->
+    <string name="exit">Вихід</string>
+    <string name="restart">Наново</string>
+    <string name="iKnow">Я вже вмію,поїхали!</string>
+
+    <!--стринг на обучающий лайяут-->
+    <string name="toucan">Тукан</string>
+    <string name="start_learn">Як користуватись програмою?</string>
+    <string name="name_animal">Це назва тварини</string>
+    <string name="next">Далі</string>
+    <string name="next2">Це зображення тварини, як у мультиках, але якщо натиснути на нього, то ви побачите як виглядає тварина в реальному житті!</string>
+    <string name="next3">Ця кнопка повертає до попередньої тварини!</string>
+    <string name="next4">Ця кнопка для переходу до наступної тварини!</string>
+    <string name="next5">Якщо натиснути один раз на цю кнопку - то почуєте звук, який видає дана тварина! Повторне натискання-припиняє відтворення звуку!</string>
+    <string name="go">Все зрозуміло! Поїхали!</string>
+    <string name="policy">Політика конфіденційності</string>
+
+
+    <!--стринги по животным-->
+    <string name="lion">Лев</string>
+    <string name="monkey">Мавпа</string>
+    <string name="cat">Кіт (Кішка)</string>
+    <string name="furseal">Тюлень \n (Морський котик)</string>
+    <string name="squirrel">Білка</string>
+    <string name="chiken">Курка</string>
+    <string name="rooster">Півень</string>
+    <string name="frog">Жаба</string>
+    <string name="bee">Бджола</string>
+    <string name="zebra">Зебра</string>
+    <string name="pig">Свиня</string>
+    <string name="lemur">Лемур</string>
+    <string name="teddy">Ведмідь</string>
+    <string name="grasshopper">Коник</string>
+    <string name="snake">Змія</string>
+    <string name="mouse">Миша</string>
+    <string name="elefant">Слон</string>
+    <string name="lamb">Овечка</string>
+    <string name="owl">Сова</string>
+    <string name="peacock">Павич</string>
+    <string name="finish">Слідкуйте за оновленням програми, щоб не пропустити більше тварин!</string>
+
+    <!--рекламные баннера по животным-->
+    <string name="lionR">ca-app-pub-3971991853344828/7235486448</string>
+
+    <string name="monkeyR">ca-app-pub-3971991853344828/3326007508</string>
+
+    <string name="catR">ca-app-pub-3971991853344828/2918957559</string>
+
+    <string name="fursealR">ca-app-pub-3971991853344828/9292794210</string>
+
+    <string name="squirrelR">ca-app-pub-3971991853344828/5353549201</string>
+
+    <string name="chikenR">ca-app-pub-3971991853344828/6283487498</string>
+
+    <string name="roosterR">ca-app-pub-3971991853344828/7404997478</string>
+
+    <string name="frogR">ca-app-pub-3971991853344828/7213425789</string>
+
+    <string name="beeR">ca-app-pub-3971991853344828/1961099105</string>
+
+    <string name="zebraR">ca-app-pub-3971991853344828/1769527418</string>
+
+    <string name="pigR">ca-app-pub-3971991853344828/3361223959</string>
+
+    <string name="lemurR">ca-app-pub-3971991853344828/3918830996</string>
+
+    <string name="teddyR">ca-app-pub-3971991853344828/3727259301</string>
+
+    <string name="grasshopperR">ca-app-pub-3971991853344828/9512533480</string>
+
+    <string name="snakeR">ca-app-pub-3971991853344828/3535687614</string>
+
+    <string name="mouseR">ca-app-pub-3971991853344828/5970279269</string>
+
+    <string name="elefantR">ca-app-pub-3971991853344828/2947125134</string>
+
+    <string name="lambR">ca-app-pub-3971991853344828/4465625903</string>
+
+    <string name="owlR">ca-app-pub-3971991853344828/3877063427</string>
+
+    <string name="peacockR">ca-app-pub-3971991853344828/6479746853</string>
+
+    <string name="finishR">ca-app-pub-3971991853344828/3493920049</string>
+
+
+
+
+    <!--стартовое название-->
+    <string name="start">натисни для перегляду!</string>
+</resources>
